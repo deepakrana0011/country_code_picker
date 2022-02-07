@@ -400,8 +400,8 @@ const List<Map<String, String>> codes = [
     "dial_code": "+995",
   },
   {
-    "name": "Deutschland",
-    "code": "DE",
+    "name": "Germany",
+    "code": "GE",
     "dial_code": "+49",
   },
   {
