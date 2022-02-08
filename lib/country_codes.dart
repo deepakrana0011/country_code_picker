@@ -1,5 +1,40 @@
 const List<Map<String, String>> codes = [
   {
+    "name": "United States",
+    "code": "US",
+    "dial_code": "+1",
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "dial_code": "+44",
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "dial_code": "+32",
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "dial_code": "+33",
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "dial_code": "+352",
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "dial_code": "+31",
+  },
+  {
+    "name": "Germany",
+    "code": "GE",
+    "dial_code": "+49",
+  },
+  {
     "name": "افغانستان",
     "code": "AF",
     "dial_code": "+93",
@@ -103,11 +138,6 @@ const List<Map<String, String>> codes = [
     "name": "Белару́сь",
     "code": "BY",
     "dial_code": "+375",
-  },
-  {
-    "name": "Belgium",
-    "code": "BE",
-    "dial_code": "+32",
   },
   {
     "name": "Belize",
@@ -365,11 +395,6 @@ const List<Map<String, String>> codes = [
     "dial_code": "+358",
   },
   {
-    "name": "France",
-    "code": "FR",
-    "dial_code": "+33",
-  },
-  {
     "name": "Guyane française",
     "code": "GF",
     "dial_code": "+594",
@@ -398,11 +423,6 @@ const List<Map<String, String>> codes = [
     "name": "საქართველო",
     "code": "GE",
     "dial_code": "+995",
-  },
-  {
-    "name": "Germany",
-    "code": "GE",
-    "dial_code": "+49",
   },
   {
     "name": "Ghana",
@@ -640,11 +660,6 @@ const List<Map<String, String>> codes = [
     "dial_code": "+370",
   },
   {
-    "name": "Luxembourg",
-    "code": "LU",
-    "dial_code": "+352",
-  },
-  {
     "name": "澳門",
     "code": "MO",
     "dial_code": "+853",
@@ -775,16 +790,6 @@ const List<Map<String, String>> codes = [
     "dial_code": "+977",
   },
   {
-    "name": "Nederland",
-    "code": "NL",
-    "dial_code": "+31",
-  },
-  {
-    "name": "Netherlands Antilles",
-    "code": "AN",
-    "dial_code": "+599",
-  },
-  {
     "name": "Nouvelle-Calédonie",
     "code": "NC",
     "dial_code": "+687",
@@ -793,6 +798,11 @@ const List<Map<String, String>> codes = [
     "name": "New Zealand",
     "code": "NZ",
     "dial_code": "+64",
+  },
+  {
+    "name": "Netherlands Antilles",
+    "code": "AN",
+    "dial_code": "+599",
   },
   {
     "name": "Nicaragua",
@@ -1168,16 +1178,6 @@ const List<Map<String, String>> codes = [
     "name": "دولة الإمارات العربية المتحدة",
     "code": "AE",
     "dial_code": "+971",
-  },
-  {
-    "name": "United Kingdom",
-    "code": "GB",
-    "dial_code": "+44",
-  },
-  {
-    "name": "United States",
-    "code": "US",
-    "dial_code": "+1",
   },
   {
     "name": "Uruguay",
